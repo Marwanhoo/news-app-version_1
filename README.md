@@ -2,7 +2,9 @@
 
 ## Description
 
-News application depends on Api and used HTTP requests Dio , and used State Management Bloc(cubit) and DarkMode
+News application depends on Api and used HTTP requests Dio , 
+
+and used State Management Bloc(cubit) and DarkMode
 
 ## Photo
 ![Screenshot_20230907_183858_com example flutter_app_2](https://github.com/Marwanhoo/news-app-version_1/assets/125823028/2e57f899-a0d3-429f-bafa-3784b2ec39bd)
